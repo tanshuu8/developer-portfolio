@@ -1,17 +1,17 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
+  name: "TANUSH",
+
   designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
+  description: "A motivated and tech-savvy Computer Science student with a strong interest in web technologies,database systems, and startup innovation. Skilled in leveraging AI tools to efficiently build andmanage both academic and personal projects. Quick learner with a passion for problem-solving,continuous learning, and entrepreneurial thinking. Actively exploring opportunities in tech-drivenstartups, digital business models, and software solutions. Eager to contribute technical and creativeskills to forward-thinking teams and grow within the software, startup, and technology ecosystem.",
+  email: 'tanushchandhra.vyogigmail.com',
+  phone: '+91 8008328313',
+  address: 'Hanamkonda, Warangal, Telangana, India',
+  github: 'https://github.com/tanshuu8',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1hDE8CGAeZB1cjj71Ec98lZ-dYgRVOTS7/view?usp=drive_link"
 }

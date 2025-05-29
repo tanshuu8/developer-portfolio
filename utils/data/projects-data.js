@@ -1,8 +1,9 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
+        name: 'Landing PageLanding page for my personal clothing brand(esthaura)',
+        description: 'Created a minimalist and responsive "Coming Soon" landing page for my personalstreet wear clothing brand esthaura. The page features a bold brand identity, acountdown timer, and an email subscription form to build early interest and collectleads before launch. Designed with user experience and visual appeal in mind to reflectthe brand’s urban aesthetic.',
+
         tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
         role: 'Backend Developer',
         code: '',
